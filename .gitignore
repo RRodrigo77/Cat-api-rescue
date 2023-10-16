@@ -1,0 +1,63 @@
+# Arquivos e diretórios específicos do Django
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+media/
+
+# Ambiente virtual
+venv/
+env/
+*.env
+
+# Arquivos gerados durante o desenvolvimento
+db.sqlite3
+db.sqlite3-journal
+logs/
+*.swp
+*.swo
+
+# Dependências
+/lib/
+/lib64/
+/include/
+/bin/
+/Scripts/
+
+# Arquivos e diretórios específicos do sistema operacional
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Icon?
+.Trash
+node_modules/
+
+# Configurações de IDE/Editor
+.idea/
+.vscode/
+*.iml
+
+# Arquivos de configuração
+*.pyproj
+*.pycproj
+*.sln
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+
+# Outros arquivos específicos do projeto
+*.ini
+*.conf
+*.env
+*.json
+*.yaml
+*.lock
+*.swp
